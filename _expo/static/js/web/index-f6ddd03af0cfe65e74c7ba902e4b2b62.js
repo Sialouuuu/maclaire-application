@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return o}});var t=r(d[0]),n=r(d[1]),u=r(d[2]);function o(){const{etat:o}=(0,n.useAppStore)();return(0,u.jsx)(t.Redirect,{href:o.profil?'/accueil':'/onboarding'})}},768,[776,774,6]);
